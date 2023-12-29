@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Euronymou5&style=for-the-badge)
-
 # ❔Whoami 👤
 
 *Mi nombre es Euronymou5, pero soy más conocido por mi apodo "Euron". Soy un desarrollador independiente que se dedica a crear diversas cosas por diversión, en momentos de aburrimiento y también como parte de proyectos planificados. Mi enfoque principal se centra en la creación de programas y herramientas especializadas en ciberseguridad y hacking.*

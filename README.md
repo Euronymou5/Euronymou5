@@ -28,7 +28,7 @@
 
 ## 🌟 Destacados entre mis proyectos
 
-<img src="https://media.discordapp.net/attachments/995599976463859713/1180718283171835996/image.png?ex=659a2017&is=6587ab17&hm=bd604d536287c897fb334679805f72fa0d74c46026e71712d52489913d7d7ca2&=&format=webp&quality=lossless&width=482&height=398">
+![image](https://github.com/Euronymou5/Euronymou5/assets/85043356/654bb92d-530c-4a58-874a-8080368db820)
 
 [Doxxer-Toolkit](https://github.com/Euronymou5/Doxxer-Toolkit)
 
@@ -37,7 +37,7 @@
 
 ----
 
-<img src="https://media.discordapp.net/attachments/995599976463859713/1028492211966451752/unknown.png?ex=659a0a83&is=65879583&hm=fbf3663f3630d4e1a4238f134c51f001d9aac2a726f0d9423942d309c418f7e3&=&format=webp&quality=lossless&width=457&height=328">
+![image](https://github.com/Euronymou5/Euronymou5/assets/85043356/570972ce-4c96-4935-8946-f509ac8b3838)
 
 [LoVeRst](https://github.com/Euronymou5/LoVeRst)
 
@@ -45,7 +45,7 @@
 
 ----
 
-<img src="https://media.discordapp.net/attachments/995599976463859713/1144118903732178944/image.png?ex=659f67c3&is=658cf2c3&hm=2eace05f3da1a075d76f32c1871a3408a9d45dd733323d60527c74ffa8c84a8e&=&format=webp&quality=lossless&width=535&height=344">
+![image](https://github.com/Euronymou5/Euronymou5/assets/85043356/89c12761-7ecc-45da-b5a3-1b22c9791528)
 
 [DorkBuster](https://github.com/Euronymou5/DorkBuster)
 

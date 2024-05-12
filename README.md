@@ -1,3 +1,4 @@
+
 # 👤 Whoami 👤
 
 *Mi nombre es Euronymou5, pero soy más conocido por mi apodo "Euron". Soy un desarrollador independiente que se dedica a crear diversas cosas por diversión, en momentos de aburrimiento y también como parte de proyectos planificados. Mi enfoque principal se centra en la creación de programas y herramientas especializadas en ciberseguridad y hacking.*
@@ -50,6 +51,14 @@
 [DorkBuster](https://github.com/Euronymou5/DorkBuster)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Euronymou5/DorkBuster)  ![GitHub forks](https://img.shields.io/github/forks/Euronymou5/DorkBuster)  ![GitHub issues](https://img.shields.io/github/issues/Euronymou5/DorkBuster)   ![GitHub watchers](https://img.shields.io/github/watchers/Euronymou5/DorkBuster)
+
+----
+
+![image](https://github.com/Euronymou5/Dark-Hydro/assets/85043356/029821e2-db56-40a8-b7ea-d1c83c7a30e5)
+
+[Dark-Hydro](https://github.com/Euronymou5/Dark-Hydro)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Euronymou5/Dark-Hydro)  ![GitHub forks](https://img.shields.io/github/forks/Euronymou5/Dark-Hydro)  ![GitHub issues](https://img.shields.io/github/issues/Euronymou5/Dark-Hydro)   ![GitHub watchers](https://img.shields.io/github/watchers/Euronymou5/Dark-Hydro)
 
 ## 🌐 Contacto 🌐
 [![discord](https://img.shields.io/badge/Discord-euronymou5-a?style=plastic&logo=discord&logoColor=white&labelColor=black&color=7289DA)](https://discord.com/users/452720652500205579)

@@ -65,4 +65,4 @@
 
 ![email](https://img.shields.io/badge/ProtonMail-mr.euron%40proton.me-a?style=plastic&logo=protonmail&logoColor=white&labelColor=black&color=8B89CC)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@Euronymou51-a?style=plastic&logo=twitter&logoColor=white&labelColor=black&color=1DA1F2)](https://twitter.com/Euronymou51)
+[![X](https://img.shields.io/twitter/follow/Euronymou51?style=plastic&logo=X&label=%40Euronymou51&labelColor=%23000000&color=%23000000)](https://x.com/Euronymou51)
